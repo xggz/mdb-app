@@ -1,0 +1,16 @@
+server:
+  port: 8181
+
+spring:
+  application:
+    name: @artifactId@
+
+dodo:
+  base-url: https://botopen.imdodo.com
+  client-id: dodo机器人开放平台clientId
+  token: dodo机器人开放平台token
+
+molly:
+  base-url: https://i.mly.app
+  api-key: 茉莉云机器人Api-Key
+  api-secret: 茉莉云机器人Api-Secret
